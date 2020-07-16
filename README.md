@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Brian. 
+
+- 😄 Pronouns: he/him/his
 
 <!--
 **bkgunderson/bkgunderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
